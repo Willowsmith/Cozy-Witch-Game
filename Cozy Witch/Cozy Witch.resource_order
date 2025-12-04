@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Audio","order":4,"path":"folders/Audio.yy",},
+    {"name":"SFX","order":2,"path":"folders/Audio/SFX.yy",},
+    {"name":"Music","order":1,"path":"folders/Audio/Music.yy",},
+    {"name":"Fonts","order":5,"path":"folders/Fonts.yy",},
+    {"name":"Objects","order":2,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":6,"path":"folders/Rooms.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Creatures","order":3,"path":"folders/Sprites/Creatures.yy",},
+    {"name":"NPC","order":2,"path":"folders/Sprites/NPC.yy",},
+    {"name":"Objects","order":4,"path":"folders/Sprites/Objects.yy",},
+    {"name":"Player","order":1,"path":"folders/Sprites/Player.yy",},
+    {"name":"Props","order":5,"path":"folders/Sprites/Props.yy",},
+    {"name":"Tile Maps","order":3,"path":"folders/Tile Maps.yy",},
+  ],
+  "ResourceOrderSettings":[],
+}
